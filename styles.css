@@ -1,0 +1,40 @@
+a {
+  font-family: "MontserratRegular";
+  font-weight: 500;
+  font-style: normal;
+}
+
+img {
+  font-family: "MontserratRegular";
+  font-weight: normal;
+  font-style: normal;
+}
+
+.first__title {
+  font-family: "MontserratBold";
+  font-weight: 700;
+  font-style: normal;
+}
+
+.first__text,
+.second__text,
+.third__text {
+  font-family: "MontserratRegular";
+  font-weight: normal;
+  font-style: normal;
+}
+
+.second__title,
+.second__price,
+.third__title {
+  font-family: "MontserratBold";
+  font-weight: 700;
+  font-style: normal;
+}
+
+.second__subtitle,
+.third__subtitle {
+  font-family: "MontserratBold";
+  font-weight: 700;
+  font-style: normal;
+}
