@@ -13,9 +13,7 @@ img {
 .first__title {
   font-family: "MontserratBold";
   font-weight: 700;
-  font-size: 80px;
   font-style: normal;
-
 }
 
 .first__text,
@@ -24,28 +22,19 @@ img {
   font-family: "MontserratRegular";
   font-weight: normal;
   font-style: normal;
-  font-size: 15px;
-  line-height: 21px;
 }
 
 .second__title,
+.second__price,
 .third__title {
   font-family: "MontserratBold";
   font-weight: 700;
   font-style: normal;
-  font-size: 40px;
-  line-height: 41px;
 }
-
 
 .second__subtitle,
 .third__subtitle {
   font-family: "MontserratBold";
   font-weight: 700;
   font-style: normal;
-  font-size: 16px;
-  line-height: 16px;
-  letter-spacing: 0.07em;
-  color: #000000;
-  opacity: 0.5;
 }
