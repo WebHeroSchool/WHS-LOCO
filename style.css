@@ -1,0 +1,295 @@
+/* header burger */
+.header__background {
+  position: absolute;
+  background: url("Rectangle 6.png") #000000;
+  width: 92px;
+  height: 92px;
+  opacity: 0.05;
+  left: 1348px;
+  top: 0px;
+}
+
+.header__background:hover {
+  opacity: 0.5;
+}
+
+.header__burger {
+  background: url("Rectangle 7.png") #000000;
+  position: absolute;
+  width: 34.7px;
+  height: 3.48px;
+  left: 1376.25px;
+  top: 48.98px;
+}
+
+
+.header__burgerother {
+  background: url("Rectangle 7.1.png") #000000;
+  position: absolute;
+  width: 34.7px;
+  height: 3.48px;
+  left: 1376.25px;
+  top: 39.54px;
+}
+
+/* Rectangle 5 чёрный прямогульник */
+.header {
+  background: url("Rectangle 5.png") #000000;
+  position: absolute;
+  width: 461px;
+  height: 900px;
+  left: 0px;
+  top: 0px;
+}
+
+/* LOGO */
+.header__logo {
+  position: absolute;
+  width: 98px;
+  height: 37px;
+  left: 52px;
+  top: 36px;
+  font-size: 30px;
+  line-height: 37px;
+  text-align: center;
+  letter-spacing: 0.07em;
+  color: #FFFFFF;
+}
+
+.header__logo:hover {
+  opacity: 0.5;
+}
+
+/* RU */
+.header__language {
+  position: absolute;
+  width: 31px;
+  height: 25px;
+  left: 388px;
+  top: 42px;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: right;
+  color: #FFFFFF;
+}
+
+/* VECTOR */
+.header__vector {
+  position: absolute;
+  width: 11px;
+  height: 5.5px;
+  left: 426px;
+  top: 47px;
+  /* border: 2px solid #FFFFFF; */
+}
+
+.header__vector:hover {
+  opacity: 0.5;
+}
+
+/* pete-bellis-432867-unsplash */
+.first__image {
+  background: url("pete-bellis-432867-unsplash.png");
+  position: absolute;
+  width: 855.54px;
+  height: 1127.76px;
+  left: 195px;
+  top: 162px;
+}
+
+/* Новая коллекция */
+.first__title {
+  position: absolute;
+  width: 475px;
+  height: 164px;
+  left: 789px;
+  top: 200px;
+  font-weight: bold;
+  font-size: 80px;
+  line-height: 82px;
+  color: #000000;
+}
+
+
+/* First text */
+.first__text {
+  position: absolute;
+  width: 467px;
+  height: 127px;
+  left: 789px;
+  top: 433px;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 21px;
+  color: #000000;
+}
+
+
+/* ЧИТАТЬ ДАЛЬШЕ */
+.first__button {
+  position: absolute;
+  width: 203px;
+  height: 44px;
+  left: 786px;
+  top: 606px;
+  border: 1.5px solid #000000;
+  box-sizing: border-box;
+  background: #ffffff;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 0px;
+}
+
+.first__button:hover {
+  opacity: 0.5;
+}
+
+/* ДРУГИЕ ПРЕДЛОЖЕНИЯ */
+.first__button_frameless {
+  position: absolute;
+  width: 172px;
+  height: 0px;
+  left: 1043px;
+  top: 626px;
+  color: #000000;
+  font-size: 13px;
+  line-height: 0px;
+}
+
+/* Vector 2.1 */
+.first__button-vector {
+  background: url("Vector2.1.png");
+  position: absolute;
+  width: 43px;
+  height: 0px;
+  left: 1230px;
+  top: 617px;
+}
+
+.first__button-vector:hover {
+  opacity: 0.5;
+}
+
+/* INSTAGRAM */
+.first__socials-insta {
+  background: url("Rectangle6.png");
+  position: absolute;
+  width: 42.98px;
+  height: 43px;
+  left: 52px;
+  top: 816px;
+  background: #FFFFFF;
+  border-radius: 50%;
+}
+
+.first__socials_vector {
+  background: url("Vector1.png");
+  position: absolute;
+  width: 0.5px;
+  height: 0.5px;
+  left: 64.5px;
+  top: 847px;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.first__socials_vector2 {
+  background: url("Vector2.png");
+  position: absolute;
+  width: 5.5px;
+  height: 5.5px;
+  left: 68.5px;
+  top: 842.5px;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.first__socials_vector3 {
+  background: url("Vector3.png");
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  left: 77px;
+  top: 843px;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.first__socials_insta:hover {
+  opacity: 0.5;
+}
+
+
+/* VK */
+.first__socials-vk {
+  background: url("Ellipse.png");
+  position: absolute;
+  width: 42.98px;
+  height: 43px;
+  left: 107.01px;
+  top: 816px;
+  background: #FFFFFF;
+  border-radius: 50%;
+}
+
+.first__socials-vector4 {
+  background: url("Vector4.png");
+  position: absolute;
+  width: 20px;
+  height: 11px;
+  left: 118px;
+  top: 832px;
+}
+
+.first__socials-vk:hover {
+  opacity: 0.5;
+}
+
+
+/* Facebook */
+.first__socials-facebook {
+  background: url("Ellipse.png");
+  position: absolute;
+  width: 42.98px;
+  height: 43px;
+  left: 162.02px;
+  top: 816px;
+  background: #FFFFFF;
+  border-radius: 50%;
+}
+
+.first__socials-vector5 {
+  background: url("Vector5.png");
+  position: absolute;
+  width: 8px;
+  height: 16px;
+  left: 179px;
+  top: 829px;
+}
+
+.first__socials-facebook:hover {
+  opacity: 0.5;
+}
+
+
+/* navigation */
+.first__socials-rectangle {
+  background: url("Rectangle8.png");
+  position: absolute;
+  width: 27px;
+  height: 46px;
+  left: 707px;
+  top: 815px;
+}
+
+.first__socials-rectangle9 {
+  background: url("Rectangle9.png");
+  position: absolute;
+  width: 2.45px;
+  height: 8.21px;
+  left: 719.27px;
+  top: 826.5px;
+  background: #000000;
+  border-radius: 19px;
+}
+
+.first__socials-rectangle:hover {
+  opacity: 0.5;
+}
